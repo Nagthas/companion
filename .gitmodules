@@ -333,7 +333,7 @@
 	url = https://github.com/bitfocus/companion-module-roland-vp42h.git
 [submodule "lib/module/opticis-omm-1000"]
 	path = lib/module/opticis-omm-1000
-	url = https://github.com/bitfocus/companion-module-opticis-omm1000.git
+url=https://github.com/bitfocus/companion-module-opticis-omm-1000.git
 [submodule "lib/module/sounddevices-pixnet"]
 	path = lib/module/sounddevices-pixnet
 	url = https://github.com/bitfocus/companion-module-sounddevices-pixnet.git
@@ -474,7 +474,7 @@
 	url = https://github.com/bitfocus/companion-module-faith-chapels-video-playout.git
 [submodule "lib/module/newbluefx-titler"]
 	path = lib/module/newbluefx-titler
-	url = https://github.com/bitfocus/companion-module-newbluefx-titler-live.git
+url=https://github.com/bitfocus/companion-module-newbluefx-titler.git
 [submodule "lib/module/foscam-ptz"]
 	path = lib/module/foscam-ptz
 	url = https://github.com/bitfocus/companion-module-foscam-ptz.git
@@ -493,3 +493,30 @@
 [submodule "lib/module/pangolin-beyond"]
 	path = lib/module/pangolin-beyond
 	url = https://github.com/bitfocus/companion-module-pangolin-beyond.git
+[submodule "lib/module/h2r-graphics"]
+	path = lib/module/h2r-graphics
+	url = https://github.com/bitfocus/companion-module-h2r-graphics.git
+[submodule "lib/module/jamesholt-x32tc"]
+	path = lib/module/jamesholt-x32tc
+	url = https://github.com/bitfocus/companion-module-jamesholt-x32tc.git
+[submodule "lib/module/figure53-go-button"]
+	path = lib/module/figure53-go-button
+	url = https://github.com/bitfocus/companion-module-figure53-go-button.git
+[submodule "lib/module/kramer-vp734"]
+	path = lib/module/kramer-vp734
+	url = https://github.com/bitfocus/companion-module-kramer-vp734.git
+[submodule "lib/module/xiamen-sprolink-vd-series"]
+	path = lib/module/xiamen-sprolink-vd-series
+	url = https://github.com/bitfocus/companion-module-xiamen-sprolink-vd-series.git
+[submodule "lib/module/mikrotik-routeros"]
+	path = lib/module/mikrotik-routeros
+	url = https://github.com/bitfocus/companion-module-mikrotik-routeros.git
+[submodule "lib/module/dsan-limitimer"]
+	path = lib/module/dsan-limitimer
+	url = https://github.com/bitfocus/companion-module-dsan-limitimer.git
+[submodule "lib/module/dsan-perfectcue"]
+	path = lib/module/dsan-perfectcue
+	url = https://github.com/bitfocus/companion-module-dsan-perfectcue.git
+[submodule "lib/module/malighting-msc"]
+	path = lib/module/malighting-msc
+	url = https://github.com/bitfocus/companion-module-malighting-msc.git
